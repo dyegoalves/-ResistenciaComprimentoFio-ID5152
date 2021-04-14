@@ -1,0 +1,19 @@
+{
+  "associatedLayout": "New scene",
+  "name": "NewExternalLayout",
+  "instances": [],
+  "editionSettings": {
+    "grid": false,
+    "gridB": 255,
+    "gridG": 180,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridR": 158,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "snap": true,
+    "windowMask": false,
+    "zoomFactor": 1
+  }
+}
