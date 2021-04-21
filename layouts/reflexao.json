@@ -1,0 +1,445 @@
+{
+  "b": 255,
+  "disableInputWhenNotFocused": true,
+  "mangledName": "reflexao",
+  "name": "reflexao",
+  "oglFOV": 90,
+  "oglZFar": 500,
+  "oglZNear": 1,
+  "r": 255,
+  "standardSortMethod": true,
+  "stopSoundsOnStartup": true,
+  "title": "scf",
+  "v": 255,
+  "uiSettings": {
+    "grid": false,
+    "gridB": 255,
+    "gridG": 180,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridR": 158,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "snap": false,
+    "windowMask": false,
+    "zoomFactor": 0.7900000000000011
+  },
+  "objectsGroups": [],
+  "variables": [],
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 40,
+      "layer": "",
+      "locked": false,
+      "name": "moldura",
+      "persistentUuid": "89f9d7f3-3d39-43eb-ac69-cce19b49e81a",
+      "width": 806,
+      "x": -2,
+      "y": 0,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 40,
+      "layer": "",
+      "locked": false,
+      "name": "moldura",
+      "persistentUuid": "670a7070-d18b-4089-9772-b50e4e96e3b6",
+      "width": 809,
+      "x": -4,
+      "y": 566,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "titulo_top",
+      "persistentUuid": "fd4c3b4f-98d9-47bc-a773-c6422e7611a3",
+      "width": 0,
+      "x": 20,
+      "y": 88,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "titulo_bot",
+      "persistentUuid": "bef97033-11ff-42c3-a2b2-964eeb542a61",
+      "width": 0,
+      "x": 7,
+      "y": 577,
+      "zOrder": 119,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "titulo_bot2",
+      "persistentUuid": "d7078610-c4ca-4ff8-a27e-94f96014d1e9",
+      "width": 0,
+      "x": 478,
+      "y": 577,
+      "zOrder": 120,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 98,
+      "layer": "",
+      "locked": false,
+      "name": "textReflexao",
+      "persistentUuid": "cf8afcb7-7d19-4c20-8029-f72acd26b5eb",
+      "width": 677,
+      "x": 77,
+      "y": 246,
+      "zOrder": 122,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "textbotaovoltar",
+      "persistentUuid": "adabf4c3-6fa2-4f5f-9d65-ba5973222800",
+      "width": 0,
+      "x": 593,
+      "y": 107,
+      "zOrder": 123,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 67,
+      "layer": "",
+      "locked": false,
+      "name": "botaovoltar",
+      "persistentUuid": "b94d5736-1d2e-49bb-88b4-40ed11e4687a",
+      "width": 67,
+      "x": 705,
+      "y": 38,
+      "zOrder": 124,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 0
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "objects": [
+    {
+      "bold": false,
+      "italic": false,
+      "name": "textReflexao",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "behaviors": [],
+      "string": "1. A medida em que aumentamos o comprimento de um condutor ................ será sua resistência elétrica.",
+      "font": "",
+      "characterSize": 20,
+      "color": {
+        "b": 60,
+        "g": 51,
+        "r": 11
+      }
+    },
+    {
+      "bold": true,
+      "italic": false,
+      "name": "textbotaovoltar",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "behaviors": [],
+      "string": "Voltar para tela anterior",
+      "font": "",
+      "characterSize": 16,
+      "color": {
+        "b": 60,
+        "g": 51,
+        "r": 11
+      }
+    },
+    {
+      "bold": true,
+      "italic": false,
+      "name": "titulo_top",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "behaviors": [],
+      "string": "Reflexão",
+      "font": "",
+      "characterSize": 20,
+      "color": {
+        "b": 60,
+        "g": 51,
+        "r": 11
+      }
+    },
+    {
+      "bold": true,
+      "italic": false,
+      "name": "titulo_bot",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "behaviors": [],
+      "string": "SENAI-RS - Gerência de Desenvolvimento Educacional",
+      "font": "",
+      "characterSize": 14,
+      "color": {
+        "b": 60,
+        "g": 51,
+        "r": 11
+      }
+    },
+    {
+      "bold": true,
+      "italic": false,
+      "name": "titulo_bot2",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "behaviors": [],
+      "string": " ©\t2006 SENAI-RS EAD ATUALIZADO EM 2021",
+      "font": "",
+      "characterSize": 14,
+      "color": {
+        "b": 60,
+        "g": 51,
+        "r": 11
+      }
+    },
+    {
+      "name": "moldura",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "14.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "botaovoltar",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "voltarCena.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "disabled": false,
+      "folded": false,
+      "name": "CAIXA DE DIALOGOS",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [],
+      "parameters": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "MouseButtonPressed"
+          },
+          "parameters": [
+            "",
+            "Left"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "actions": [],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "botaovoltar",
+                "",
+                "yes",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PopScene"
+              },
+              "parameters": [
+                "binfo"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        }
+      ]
+    }
+  ],
+  "layers": [
+    {
+      "ambientLightColorB": 1702453580,
+      "ambientLightColorG": 1701994864,
+      "ambientLightColorR": 100663296,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "name": "Block",
+      "visibility": false,
+      "cameras": [],
+      "effects": []
+    },
+    {
+      "ambientLightColorB": 36,
+      "ambientLightColorG": 7153432,
+      "ambientLightColorR": 32,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "name": "",
+      "visibility": true,
+      "cameras": [
+        {
+          "defaultSize": true,
+          "defaultViewport": true,
+          "height": 0,
+          "viewportBottom": 1,
+          "viewportLeft": 0,
+          "viewportRight": 1,
+          "viewportTop": 0,
+          "width": 0
+        }
+      ],
+      "effects": []
+    }
+  ],
+  "behaviorsSharedData": []
+}

@@ -1,0 +1,788 @@
+{
+  "b": 255,
+  "disableInputWhenNotFocused": true,
+  "mangledName": "creditos",
+  "name": "creditos",
+  "oglFOV": 90,
+  "oglZFar": 500,
+  "oglZNear": 1,
+  "r": 255,
+  "standardSortMethod": true,
+  "stopSoundsOnStartup": true,
+  "title": "scf",
+  "v": 255,
+  "uiSettings": {
+    "grid": false,
+    "gridB": 255,
+    "gridG": 180,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridR": 158,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "snap": false,
+    "windowMask": false,
+    "zoomFactor": 0.7900000000000011
+  },
+  "objectsGroups": [],
+  "variables": [],
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 40,
+      "layer": "",
+      "locked": false,
+      "name": "moldura",
+      "persistentUuid": "89f9d7f3-3d39-43eb-ac69-cce19b49e81a",
+      "width": 806,
+      "x": -2,
+      "y": 0,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 40,
+      "layer": "",
+      "locked": false,
+      "name": "moldura",
+      "persistentUuid": "670a7070-d18b-4089-9772-b50e4e96e3b6",
+      "width": 809,
+      "x": -4,
+      "y": 566,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "titulo_top",
+      "persistentUuid": "fd4c3b4f-98d9-47bc-a773-c6422e7611a3",
+      "width": 0,
+      "x": 20,
+      "y": 58,
+      "zOrder": 118,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "titulo_bot",
+      "persistentUuid": "bef97033-11ff-42c3-a2b2-964eeb542a61",
+      "width": 0,
+      "x": 7,
+      "y": 577,
+      "zOrder": 119,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "titulo_bot2",
+      "persistentUuid": "d7078610-c4ca-4ff8-a27e-94f96014d1e9",
+      "width": 0,
+      "x": 478,
+      "y": 577,
+      "zOrder": 120,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 26,
+      "layer": "",
+      "locked": false,
+      "name": "textCreditoTitulo",
+      "persistentUuid": "cf8afcb7-7d19-4c20-8029-f72acd26b5eb",
+      "width": 150,
+      "x": 555,
+      "y": 142,
+      "zOrder": 122,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "textCreditoNomes",
+      "persistentUuid": "48fd9655-3253-4146-a85b-0338e2fffa94",
+      "width": 0,
+      "x": 575,
+      "y": 169,
+      "zOrder": 123,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "textCreditoTitulo2",
+      "persistentUuid": "a81a29b1-80a7-4e83-a2c9-e6864fcc3c3a",
+      "width": 0,
+      "x": 567,
+      "y": 208,
+      "zOrder": 124,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 80,
+      "layer": "",
+      "locked": false,
+      "name": "textCreditoNomes2",
+      "persistentUuid": "be617a23-8357-48bb-a048-c37ab6b712bf",
+      "width": 233,
+      "x": 452,
+      "y": 228,
+      "zOrder": 125,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "textColaboradores",
+      "persistentUuid": "103a21cf-1b25-42f2-b421-a330469b3a59",
+      "width": 0,
+      "x": 550.7219848632812,
+      "y": 369.234375,
+      "zOrder": 49,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "textColaboradores",
+      "persistentUuid": "e924f04d-4fdf-4c80-a29d-35508b89cc37",
+      "width": 0,
+      "x": 392.4941711425781,
+      "y": 352.7786560058594,
+      "zOrder": 49,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "textColaboradores",
+      "persistentUuid": "bde22358-e10a-4a9c-902f-7eba7e47db74",
+      "width": 0,
+      "x": 228.68878173828125,
+      "y": 345.1837463378906,
+      "zOrder": 49,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "textCreditoTitulo3",
+      "persistentUuid": "1a7184b1-19ff-4a18-82ed-79e81bf01a24",
+      "width": 0,
+      "x": 586,
+      "y": 306,
+      "zOrder": 126,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "textCreditoNomes3",
+      "persistentUuid": "5e573820-3747-42f5-a8d8-bd1d2722ee86",
+      "width": 0,
+      "x": 398,
+      "y": 329,
+      "zOrder": 127,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 70,
+      "layer": "",
+      "locked": false,
+      "name": "textCreditoTitulo32",
+      "persistentUuid": "edee5f96-cb49-4420-8ea1-83f78dd995e8",
+      "width": 412,
+      "x": 288,
+      "y": 432,
+      "zOrder": 128,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "textCreditoNomes32",
+      "persistentUuid": "54b0ccb3-41c0-46ca-817a-57c6813bb698",
+      "width": 0,
+      "x": 150,
+      "y": 507,
+      "zOrder": 129,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 67,
+      "layer": "",
+      "locked": false,
+      "name": "botao_voltar",
+      "persistentUuid": "be499b84-2df4-40ec-86d4-274243a3d2c3",
+      "width": 67,
+      "x": 705,
+      "y": 37,
+      "zOrder": 130,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 19,
+      "layer": "",
+      "locked": false,
+      "name": "textbotaovoltar",
+      "persistentUuid": "8ebf2a7c-e7fc-4a9b-b11b-b5964be29e72",
+      "width": 179,
+      "x": 593,
+      "y": 104,
+      "zOrder": 131,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 209,
+      "layer": "",
+      "locked": false,
+      "name": "senaibg",
+      "persistentUuid": "10623d59-1d54-424e-9be6-417c49a9b903",
+      "width": 800,
+      "x": -1,
+      "y": 206,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "objects": [
+    {
+      "bold": true,
+      "italic": false,
+      "name": "textCreditoTitulo",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "behaviors": [],
+      "string": "Coordenador Geral\n",
+      "font": "",
+      "characterSize": 16,
+      "color": {
+        "b": 60,
+        "g": 51,
+        "r": 11
+      }
+    },
+    {
+      "bold": true,
+      "italic": false,
+      "name": "textCreditoTitulo2",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "behaviors": [],
+      "string": "Desenvolvedores",
+      "font": "",
+      "characterSize": 16,
+      "color": {
+        "b": 60,
+        "g": 51,
+        "r": 11
+      }
+    },
+    {
+      "bold": true,
+      "italic": false,
+      "name": "textCreditoTitulo3",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "behaviors": [],
+      "string": "Colaboradores",
+      "font": "",
+      "characterSize": 16,
+      "color": {
+        "b": 60,
+        "g": 51,
+        "r": 11
+      }
+    },
+    {
+      "bold": true,
+      "italic": false,
+      "name": "textbotaovoltar",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "behaviors": [],
+      "string": "Voltar para tela anterior\n\n\n",
+      "font": "",
+      "characterSize": 16,
+      "color": {
+        "b": 60,
+        "g": 51,
+        "r": 11
+      }
+    },
+    {
+      "bold": true,
+      "italic": false,
+      "name": "textCreditoTitulo32",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "behaviors": [],
+      "string": " Serviço Nacional de Aprendizagem Industrial - SENAI\n              Departamento Regional do Rio Grande do Sul\n                   Gerência de Desenvolvimento Educacional\n\n\n",
+      "font": "",
+      "characterSize": 16,
+      "color": {
+        "b": 60,
+        "g": 51,
+        "r": 11
+      }
+    },
+    {
+      "bold": false,
+      "italic": false,
+      "name": "textCreditoNomes",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "behaviors": [],
+      "string": "Claiton Costa",
+      "font": "",
+      "characterSize": 16,
+      "color": {
+        "b": 60,
+        "g": 51,
+        "r": 11
+      }
+    },
+    {
+      "bold": false,
+      "italic": false,
+      "name": "textCreditoNomes2",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "behaviors": [],
+      "string": "             Dyego dos Santos Alves\n   José Pedro Schardosim Simão\n                                  Iuri Carraro\n                 Fernando Schirmbeck\n\n",
+      "font": "",
+      "characterSize": 16,
+      "color": {
+        "b": 60,
+        "g": 51,
+        "r": 11
+      }
+    },
+    {
+      "bold": false,
+      "italic": false,
+      "name": "textCreditoNomes3",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "behaviors": [],
+      "string": "          Aurélio Athayde Rauber (Ilustrador)\nLuiz Marcos Scolari (Consultor Científico)\n",
+      "font": "",
+      "characterSize": 16,
+      "color": {
+        "b": 60,
+        "g": 51,
+        "r": 11
+      }
+    },
+    {
+      "bold": false,
+      "italic": false,
+      "name": "textCreditoNomes32",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "behaviors": [],
+      "string": "Porto Alegre - RS - Fone +55 51 3347 8440 - https://www.senairs.org.br\n              SENAI-RS - Gerência de Desenvolvimento Educacional\n",
+      "font": "",
+      "characterSize": 16,
+      "color": {
+        "b": 60,
+        "g": 51,
+        "r": 11
+      }
+    },
+    {
+      "bold": true,
+      "italic": false,
+      "name": "titulo_top",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "behaviors": [],
+      "string": "Créditos",
+      "font": "",
+      "characterSize": 20,
+      "color": {
+        "b": 60,
+        "g": 51,
+        "r": 11
+      }
+    },
+    {
+      "bold": true,
+      "italic": false,
+      "name": "titulo_bot",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "behaviors": [],
+      "string": "SENAI-RS - Gerência de Desenvolvimento Educacional",
+      "font": "",
+      "characterSize": 14,
+      "color": {
+        "b": 60,
+        "g": 51,
+        "r": 11
+      }
+    },
+    {
+      "bold": true,
+      "italic": false,
+      "name": "titulo_bot2",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "behaviors": [],
+      "string": " ©\t2006 SENAI-RS EAD ATUALIZADO EM 2021",
+      "font": "",
+      "characterSize": 14,
+      "color": {
+        "b": 60,
+        "g": 51,
+        "r": 11
+      }
+    },
+    {
+      "name": "moldura",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "14.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "botao_voltar",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "voltarCena.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "senaibg",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "1bb3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "disabled": false,
+      "folded": false,
+      "name": "CAIXA DE COMANDOS",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [],
+      "parameters": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "MouseButtonPressed"
+          },
+          "parameters": [
+            "",
+            "Left"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "actions": [],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "botao_voltar",
+                "",
+                "yes",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PopScene"
+              },
+              "parameters": [
+                "bcreditos"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        }
+      ]
+    }
+  ],
+  "layers": [
+    {
+      "ambientLightColorB": 1702453580,
+      "ambientLightColorG": 1701994864,
+      "ambientLightColorR": 100663296,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "name": "Block",
+      "visibility": false,
+      "cameras": [],
+      "effects": []
+    },
+    {
+      "ambientLightColorB": 36,
+      "ambientLightColorG": 7153432,
+      "ambientLightColorR": 32,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "name": "",
+      "visibility": true,
+      "cameras": [
+        {
+          "defaultSize": true,
+          "defaultViewport": true,
+          "height": 0,
+          "viewportBottom": 1,
+          "viewportLeft": 0,
+          "viewportRight": 1,
+          "viewportTop": 0,
+          "width": 0
+        }
+      ],
+      "effects": []
+    }
+  ],
+  "behaviorsSharedData": []
+}

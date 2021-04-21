@@ -205,15 +205,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "tela.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tela.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "NewFile-1-0.png",
         "kind": "image",
         "metadata": "",
@@ -227,15 +218,6 @@
         "kind": "image",
         "metadata": "",
         "name": "12.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "info12.PNG",
-        "kind": "image",
-        "metadata": "",
-        "name": "info12.PNG",
         "smoothed": true,
         "userAdded": true
       },
@@ -277,84 +259,48 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "ajuda-1.png",
+        "file": "264.png",
         "kind": "image",
         "metadata": "",
-        "name": "ajuda-1.png",
+        "name": "264.png",
         "smoothed": true,
-        "userAdded": true
+        "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "tela_creditos.PNG",
+        "file": "14.png",
         "kind": "image",
         "metadata": "",
-        "name": "tela_creditos.PNG",
+        "name": "14.png",
         "smoothed": true,
-        "userAdded": true
+        "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "264-1.png",
+        "file": "voltarCena.png",
         "kind": "image",
         "metadata": "",
-        "name": "264-1.png",
+        "name": "voltarCena.png",
         "smoothed": true,
-        "userAdded": true
+        "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "2642.png",
+        "file": "285 -b.png",
         "kind": "image",
         "metadata": "",
-        "name": "2642.png",
+        "name": "285 -b.png",
         "smoothed": true,
-        "userAdded": true
+        "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "info_bt.png",
+        "file": "1bb3.png",
         "kind": "image",
         "metadata": "",
-        "name": "info_bt.png",
+        "name": "1bb3.png",
         "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "info_bt2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "info_bt2.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "info_bt3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "info_bt3.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "info_bt4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "info_bt4.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "info_bt-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "info_bt-1.png",
-        "smoothed": true,
-        "userAdded": true
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -366,6 +312,18 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/scf"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/reflexao"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/ajuda"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/creditos"
     }
   ],
   "externalEvents": [],
